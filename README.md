@@ -47,11 +47,11 @@
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/adithyasraghavan/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasraghavan/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:as20373@nyu.edu)
 ---
 
-![GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![GIF](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 <!--
 **Adithya-Srinivasa-Raghavan/Adithya-Srinivasa-Raghavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
